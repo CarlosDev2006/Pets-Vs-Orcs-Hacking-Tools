@@ -1,4 +1,4 @@
-<h1 align="center">Pets Vs Orcs Hack Tools ⚙</h1>
+<h1 align="center">Pets Vs Orcs Hacking Tools ⚙</h1>
 
 Pets Vs Orcs - the second game from **Supercell**. Unfortunately, the game closed less than a month later due to failure. But with the help of this repository you can play it, even with the hacked version, and also see all the assets of this game.
 ![screenshot](https://user-images.githubusercontent.com/75579612/108519875-20e1b800-72db-11eb-8599-cb26142545d6.png)
