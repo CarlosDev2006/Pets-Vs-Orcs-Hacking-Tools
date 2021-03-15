@@ -19,8 +19,8 @@ I don't know if this will be useful, but I have uploaded all the game assets (im
 
 P.S. debug menu / other debug things was not found in the game code :(
 
->h1 align="center">Russian</h1>
->Инструменты для взлома Pets Vs Orcs ⚙
+>h1 align="center">Russian version</h1>
+# Инструменты для взлома Pets Vs Orcs ⚙
 Pets Vs Orcs - вторая игра от Supercell. К сожалению, игра закрылась менее чем через месяц. Но с помощью этого репозитория вы можете играть в нее даже с взломанной версией, а также увидеть все файлы этой игры. 
 # Установка
 В репозитории вы можете увидеть файл dll. Держите при себе, он вам понадобится. Сначала загрузите стабильную версию игры по [данной ссылке](https://drive.google.com/file/d/1Tc274ZfXHnVLvcxDX-1StXO54i6ZoBwD/view?usp=sharing). Примечание. Многие устройства не поддерживают эту игру. Поэтому рекомендую использовать либо старое устройство, либо эмулятор. Для запуска этой игры я использую BlueStacks 4.260.0.1032, и все отлично работает.
