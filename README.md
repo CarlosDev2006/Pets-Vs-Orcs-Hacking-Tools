@@ -19,7 +19,8 @@ I don't know if this will be useful, but I have uploaded all the game assets (im
 
 P.S. debug menu / other debug things was not found in the game code :(
 
->h1 align="center">Russian version</h1>
+<h1 align="center">Russian version Русская версия</h1>
+
 # Инструменты для взлома Pets Vs Orcs ⚙
 Pets Vs Orcs - вторая игра от Supercell. К сожалению, игра закрылась менее чем через месяц. Но с помощью этого репозитория вы можете играть в нее даже с взломанной версией, а также увидеть все файлы этой игры. 
 # Установка
